@@ -48,15 +48,15 @@ Acreditamos que a sustentabilidade é uma responsabilidade compartilhada e valor
 
 *Feedback e Sugestões:* Utilize o software EcoChoice e forneça feedback sobre sua experiência. Comentários e sugestões são valiosos para aprimorarmos o projeto.
 
-*Avaliações e Perguntas:* Faça perguntas para tirar todas suas dúvidas para que consiga comprar de forma sustentável sem nenhuma dúvida, além de que a sua dúvida hoje pode ser a mesma de alguém amanhã e não esqueça de avaliar suas comparações, produtos e perguntas.
+*Avaliações e Perguntas:* Faça perguntas para tirar todas suas dúvidas para que consiga comprar de forma sustentável sem nenhuma dúvida, além de que a sua dúvida hoje pode ser a mesma de alguém amanhã e não esqueça de avaliar comparações, produtos e perguntas.
 
 *Divulgação:* Ajude a divulgar a EcoChoice em suas redes sociais e entre sua comunidade. Quanto mais pessoas adotarem escolhas sustentáveis, maior será o impacto positivo no meio ambiente.
 
 Junte-se a nós na missão de tornar o mundo um lugar mais sustentável, uma escolha de cada vez!!!
 
 ## Contato
-email: leobottura17@gmail.com
-LinkedIn: https://www.linkedin.com/in/leonardobottura/
-GitHub: https://github.com/LeonardoRuizB
+- email: leobottura17@gmail.com
+- LinkedIn: https://www.linkedin.com/in/leonardobottura/
+- GitHub: https://github.com/LeonardoRuizB
 
 **Trabalho realizado durante o Curso de Análise e Desenvolvimento de Sistemas na Universidade Sâo Judas Tadeu**
