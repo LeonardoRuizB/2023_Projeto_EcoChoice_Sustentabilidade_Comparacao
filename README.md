@@ -11,7 +11,7 @@ O objetivo principal é incentivar o mercado a oferecer mais produtos sustentáv
 
 *Comparação de Impactos Ambientais:* A EcoChoice permite aos usuários comparar os impactos ambientais de diferentes produtos, ajudando-os a identificar quais opções são mais amigáveis ao meio ambiente. Por exemplo, informando se um produto é feito com materiais reciclados, produzido com energias renováveis ou se é biodegradável.
 
-*Descontos e Promoções Sustentáveis:* Em parceria com lojas e varejistas locais, o software oferecerá descontos e promoções em produtos e serviços mais sustentáveis, incentivando os usuários a fazerem escolhas eco-friendly.
+*Descontos e Promoções Sustentáveis:* Em parceria com lojas e varejistas locais, o software oferecerá descontos e promoções em produtos e serviços mais sustentáveis, incentivando os usuários a fazerem escolhas mais sustentáveis.
 
 *Classificação e Avaliação de Empresas e Produtos:* Os usuários poderão classificar e avaliar empresas e produtos com base em sua sustentabilidade, criando um sistema que estimule a concorrência entre as empresas para se tornarem mais ecológicas.
 
@@ -48,7 +48,7 @@ Acreditamos que a sustentabilidade é uma responsabilidade compartilhada e valor
 
 *Feedback e Sugestões:* Utilize o software EcoChoice e forneça feedback sobre sua experiência. Comentários e sugestões são valiosos para aprimorarmos o projeto.
 
-*Avaliações e Perguntas:* Faça perguntas para tirar todas suas dúvidas para que consiga comprar de forma sustentável sem nenhuma dúvida e não esqueça de avaliar suas comparações e produtos.
+*Avaliações e Perguntas:* Faça perguntas para tirar todas suas dúvidas para que consiga comprar de forma sustentável sem nenhuma dúvida, além de que a sua dúvida hoje pode ser a mesma de alguém amanhã e não esqueça de avaliar suas comparações, produtos e perguntas.
 
 *Divulgação:* Ajude a divulgar a EcoChoice em suas redes sociais e entre sua comunidade. Quanto mais pessoas adotarem escolhas sustentáveis, maior será o impacto positivo no meio ambiente.
 
