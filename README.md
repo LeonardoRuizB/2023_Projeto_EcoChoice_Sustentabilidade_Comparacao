@@ -59,4 +59,4 @@ Junte-se a nós na missão de tornar o mundo um lugar mais sustentável, uma esc
 - LinkedIn: https://www.linkedin.com/in/leonardobottura/
 - GitHub: https://github.com/LeonardoRuizB
 
-**Projeto realizado durante o Curso de Análise e Desenvolvimento de Sistemas na Universidade Sâo Judas Tadeu**
+**Projeto realizado durante o Curso de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu**
