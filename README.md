@@ -1,4 +1,4 @@
-# EcoChoice - Guia de Uso e Contribuição
+# 🌱📊 EcoChoice - Guia de Uso e Contribuição 🚀🌍
 
 ## Sobre o Projeto
 
@@ -52,7 +52,7 @@ Acreditamos que a sustentabilidade é uma responsabilidade compartilhada e valor
 
 *Divulgação:* Ajude a divulgar a EcoChoice em suas redes sociais e entre sua comunidade. Quanto mais pessoas adotarem escolhas sustentáveis, maior será o impacto positivo no meio ambiente.
 
-Junte-se a nós na missão de tornar o mundo um lugar mais sustentável, uma escolha de cada vez!!!
+Junte-se a nós na missão de tornar o mundo um lugar mais sustentável, uma escolha de cada vez!!! 💚🌎
 
 ## Contato
 - email: leobottura17@gmail.com
